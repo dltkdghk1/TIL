@@ -1,0 +1,39 @@
+mark down, mark up 공통점 : 로직이 작성되지 않는다.
+
+mark down 배우는 이유 
+
+→ github에 [readme.md](http://read.md) 파일로 활용 → 프로젝트에 대한 설명을 문서화 → 가독성, 편의성
+
+런타임
+
+ex) 닌텐도 머신 → 런타임, 닌텐도 팩 
+
+javascript로 만든 게임 app의 런타임 → node.js
+
+python으로 만든  app 의 런타임 → cpython. pypy(cpython에서 속도를 올린 런타임)
+
+java로 만든 게임 app의 런타임 → jvm(java virtual machine)
+
+c++, c로 만든 app 은 런타임이 없음
+
+git 쓸 때 gui로 다뤄야 하는지 cli로 다뤄야하는지
+
+→ 상황마다 다르다. 즉, 대부분 cli를 사용하지만 diff,graph는 GUI를 사용
+
+CLI의 장점 
+
+→ Commit 명령어 1초면 끝 (GUI)는 10초 걸린다)
+
+→ 20년전 배웠으면 지금도 쓰고 있고, 앞으로도 쓸것이다.
+
+GUI의 장점
+
+→ 보기편하고, 친숙하고, 기능도 다 있다.
+
+→ diff 파일비교, graph (시각적이고 복잡한 분석 ) 경우 훨씬 보기 좋다.
+
+markdown
+
+#의 갯수 만큼 제목 크기가 변함
+
+ex) # 헤더적기, ## 헤더적기 2
